@@ -101,3 +101,6 @@ venv-flask/
 
 # mypy
 .mypy_cache/
+
+
+.pytest_cache/
